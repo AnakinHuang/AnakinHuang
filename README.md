@@ -2,10 +2,10 @@
 
 🎓 **Master's Student in Computer Science** at the University of Rochester  
 💻 Passionate about AI, machine learning, and building practical software systems  
-🌎 Currently based in Rochester, NY
-📧 yhu116@u.rochester.edu
-📞 (603) 866-4355
-🔗 [GitHub](https://github.com/AnakinHuang)
+🌎 Currently based in Rochester, NY  
+📧 yhu116@u.rochester.edu | yhu116@ur.rochester.edu  
+📞 (603) 866-4355  
+🔗 [GitHub](https://github.com/AnakinHuang)  
 
 ---
 
