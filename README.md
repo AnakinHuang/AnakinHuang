@@ -1,7 +1,10 @@
-# 👋 Hi, I'm Yuesong Huang
+# 👋 Hi, I'm Yuesong (Anakin) Huang
 
-🎓 **Graduate Student in Computer Science**  
-📍 Rochester, NY | 📧 yhu116@u.rochester.edu | 📞 (603) 866-4355  
+🎓 **Master's Student in Computer Science** at the University of Rochester  
+💻 Passionate about AI, machine learning, and building practical software systems  
+🌎 Currently based in Rochester, NY
+📧 yhu116@u.rochester.edu
+📞 (603) 866-4355
 🔗 [GitHub](https://github.com/AnakinHuang)
 
 ---
@@ -15,8 +18,25 @@ I'm a passionate software engineer and researcher with a strong foundation in co
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, Java, C, C++, OCaml, Rust, Swift, Ruby, MySQL
-- **Frameworks & Tools:** Django, AWS, Git, HTML5, CSS, JavaScript, PHP
+- **Web & Tools:** HTML5, CSS, JavaScript, PHP, Django, AWS, Git, MySQL
 - **AI/ML:** LLMs (GPT-4o, Llama-2, Gemini, Claude, etc.), CNNs, Transformers
+- **Tech Focus:** Machine Learning, Data Mining, Distributed Systems, NLP
+
+---
+
+## 🛠️ Highlighted Projects
+
+- **[Milo Music](https://github.com/AnakinHuang/MiloMusic)**  
+  *An AI-powered music creation platform enabling users to generate complete songs through natural language interaction, integrating multiple LLMs (GPT-4o, Llama-2, Gemini).*
+
+- **[DAYS DVCS](https://github.com/AnakinHuang/days_distributed_version_control_system)**  
+  *A fully functional distributed version control system implemented in Rust, offering Git-like operations such as branching, merging, and remote syncing.*
+
+- **[Body Signals Analysis](https://github.com/AnakinHuang/body-signals-analysis-of-smoking-and-drinking)**  
+  *Analyzed 70,000+ physiological data points; built ML models (SVM, XGBoost) and applied PCA for dimensionality reduction, achieving 81% accuracy.*
+
+- **[Kaggle Tweet Classifier](https://github.com/AnakinHuang/kaggle-project-classification-of-tweets-from-northern-europe)**  
+  *Classified political tweets from seven Northern European countries using NLP and LinearSVC, achieving 77% accuracy.*
 
 ---
 
@@ -56,3 +76,11 @@ I'm a passionate software engineer and researcher with a strong foundation in co
 
 **Computer Science Intern & Web Group Leader**  
 *VISION X LLC*
+
+---
+
+## 📈 What I'm Up To
+
+- Deepening my expertise in **large language models** and **distributed systems**
+- Contributing to open-source and research in **AI and applied ML**
+- Exploring **AI + creative tools** at the intersection of language, music, and art
