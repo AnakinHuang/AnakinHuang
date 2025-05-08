@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer and researcher with a strong foundation in computer science, currently pursuing my M.S. at the University of Rochester (GPA: 3.95/4.00). My interests lie at the intersection of AI, machine learning, and systems development. I have a track record of developing innovative projects, from AI-powered platforms to distributed systems.
+I'm a passionate software engineer and researcher with a strong foundation in computer science, currently pursuing my M.S. at the University of Rochester. My interests lie at the intersection of AI, machine learning, and systems development. I have a track record of developing innovative projects, from AI-powered platforms to distributed systems.
 
 ---
 
