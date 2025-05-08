@@ -16,8 +16,7 @@ I'm a passionate software engineer and researcher with a strong foundation in co
 
 - **Languages:** Python, Java, C, C++, OCaml, Rust, Swift, Ruby, MySQL
 - **Frameworks & Tools:** Django, AWS, Git, HTML5, CSS, JavaScript, PHP
-- **AI/ML:** LLMs (GPT-4o, Llama-2, Gemini), CNNs, Transformers, SVM, XGBoost, PCA
-- **Other:** OCR, RPA, NLP, Data Visualization
+- **AI/ML:** LLMs (GPT-4o, Llama-2, Gemini, Claude, etc.), CNNs, Transformers
 
 ---
 
