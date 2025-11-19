@@ -26,7 +26,7 @@ I'm a passionate software engineer and researcher with a strong foundation in co
 
 ## 🛠️ Highlighted Projects
 
-- **[Milo Music](https://github.com/AnakinHuang/MiloMusic)**  
+- **[Milo Music](https://github.com/futurespyhi/MiloMusic)**  
   *An AI-powered music creation platform enabling users to generate complete songs through natural language interaction, integrating multiple LLMs (GPT-4o, Llama-2, Gemini).*
 
 - **[DAYS DVCS](https://github.com/AnakinHuang/days_distributed_version_control_system)**  
