@@ -47,8 +47,6 @@ An end-to-end multimodal music-generation system.
 - Provides a Gradio-based UI and a multi-model pipeline supporting quantized deployment across different GPUs.  
 - Implements API orchestration and custom model adapters, benchmarking generation latency (~13–9 minutes depending on GPU).
 
----
-
 ### [DAYS DVCS: Distributed Version Control System in Rust](https://github.com/AnakinHuang/days_distributed_version_control_system)
 A teaching-oriented but fully functional DVCS.
 
@@ -56,15 +54,11 @@ A teaching-oriented but fully functional DVCS.
 - Designed around information hiding and minimal interfaces for the core `FileLog` module.  
 - Written in Rust, with a focus on correctness and clear separation of responsibilities.
 
----
-
 ### [Body Signals Analysis of Smoking and Drinking](https://github.com/AnakinHuang/body-signals-analysis-of-smoking-and-drinking)
 Using ML to study lifestyle-related physiological patterns.
 
 - Preprocessed and analyzed 70,000+ physiological samples to study associations between body signals and smoking/drinking habits.  
 - Applied PCA for dimensionality reduction and trained SVM and XGBoost models to predict smoking/drinking status, achieving ~81% accuracy with supporting visualizations.
-
----
 
 ### [Kaggle Tweet Classifier](https://github.com/AnakinHuang/kaggle-project-classification-of-tweets-from-northern-europe)
 NLP for political tweet classification.
